@@ -1,0 +1,135 @@
+/* CSS Styles */
+
+
+@font-face{
+	font-family: robotomono;
+	src:url(robotomono/robotomono.ttf) format('truetype');
+}
+
+html{
+
+	padding:0px;
+	background-color: rgba(0,0,0,.01);
+}
+body{
+	padding:5px;
+	margin: 5px 5% 5px 5%;
+	font-family: 'robotomono';
+	border: 2px solid gray;
+  	border-radius: 12px;
+
+}
+
+
+
+h1{
+	text-align: center;
+	font-family: 'RobotoMono-Medium'
+}
+
+a:visited{
+	color:red;
+}
+
+a:hover{
+	background-color: gray;
+	color:black;
+}
+
+}
+
+#contentContainer{
+	position: relative;
+	height: auto;
+	width: auto;
+	margin-right: auto;
+	margin-left: auto;
+	border: 500px;
+
+}
+#info{
+	margin: -300px 30% 0px 30%;
+	font-family: robotomono;
+	padding-bottom: 40px;
+}
+
+
+
+.row{
+	width: 100%;
+	height:auto;
+	position:relative;
+	display:flex;
+	display: -webkit-flex;
+	padding: 0 4px;
+
+}
+
+.column{
+	width: 100%;
+	height:auto;
+	position:relative;
+	display:flex;
+	display: -webkit-flex;
+	padding: 0 4px;
+
+}
+
+.anthaxia-bicolor{
+	position: relative;
+	  display: -webkit-flex; /* Safari */
+    display: flex;
+	width:200px;
+	height:200px;
+	border:5px;
+
+}
+
+.campisura-insignis{
+	position: relative;
+	  display: -webkit-flex; /* Safari */
+    display: flex;
+	width:200px;
+	height:200px;
+	border:5px;
+
+}
+
+.coptocycla-ruficornis{
+	position: relative;
+	  display: -webkit-flex; /* Safari */
+    display: flex;
+	width:200px;
+	height:200px;
+	border:5px;
+
+}
+
+.entimus-fastuosus{
+	position: relative;
+	  display: -webkit-flex; /* Safari */
+    display: flex;
+	width:200px;
+	height:200px;
+	border:5px;
+
+}
+
+.freadelpha-principalis{
+	position: relative;
+	  display: -webkit-flex; /* Safari */
+    display: flex;
+	width:200px;
+	height:200px;
+	border:5px;
+
+}
+
+
+
+
+
+
+
+
+
